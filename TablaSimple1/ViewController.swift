@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TablaSimple1
 //
-//  Created by Angeles Jelena Lopezx Fernandez on 18/05/18.
+//  Created by Angeles Jelena Lopez Fernandez on 18/05/18.
 //  Copyright © 2018 Angeles Jelena Lopez Fernandez. All rights reserved.
 //
 
